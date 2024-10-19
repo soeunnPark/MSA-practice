@@ -11,6 +11,7 @@ import javax.persistence.Table;
 import org.apache.commons.lang3.StringUtils;
 
 import dev.practice.order.common.util.TokenGenerator;
+import dev.practice.order.domain.AbstractEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

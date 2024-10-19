@@ -1,4 +1,4 @@
-package dev.practice.order.domain.partner;
+package dev.practice.order.domain;
 
 import java.time.ZonedDateTime;
 
